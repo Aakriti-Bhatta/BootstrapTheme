@@ -1,0 +1,71 @@
+*{
+    font-size: 22px;
+}
+header.container-fluid{
+    padding: 0;
+    margin-bottom: 0;
+}
+.jumbotron{
+    padding: 1rem 1rem;
+    margin-bottom: 0;
+
+}
+.nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: gray
+    
+}
+.nav a:hover{
+    color: rgb(17, 136, 116);
+}
+.section-1.container-fluid{
+    
+    background-color: rgb(17, 136, 116);
+    margin-bottom: 0;
+}
+h6.Who{
+    color: white;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    margin-bottom: 0em;
+
+}
+.border-radius{
+    border-radius: 80em;
+}
+.section-2{
+    background-color: rgba(42, 52, 68, 0.938);
+    
+}
+h6.What{
+padding-top: 3rem;
+padding-bottom: 3rem;
+color: white;
+}
+p.sec2{
+    color: white;
+}
+button.btn{
+    margin-bottom: 3rem;
+}
+.section-3.container-fluid{
+    margin-bottom: 4rem;
+}
+h6.Where{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+footer{
+    background-color: rgb(52, 52, 53);
+}
+h6.foot{
+    color: white;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+footer a{
+    text-decoration: none;
+}
